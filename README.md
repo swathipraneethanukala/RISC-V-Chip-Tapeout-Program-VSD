@@ -12,7 +12,7 @@ This program offers hands-on experience in designing a **System-on-Chip (SoC)**,
 It is part of one of the **largest collaborative RISC-V tapeout initiatives in India**, bringing together thousands of participants to strengthen the country’s **semiconductor ecosystem** and nurture a new generation of chip designers.  
 
 ---
-**Week 0** → [Tools installation](week1/README.md)  
+**Week 0** → [Tools installation](week0/README.md)  
 ---
 
 ## 🌟 Goals
