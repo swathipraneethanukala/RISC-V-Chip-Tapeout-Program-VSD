@@ -36,6 +36,8 @@ $ make config-gcc
 $ make
 $ sudo make install
 ```
+![Alt text](images/yosys.png)
+
 ### 2. Icarus Verilog (iverilog) – Verilog Simulator
 
 Icarus Verilog is used to compile and simulate Verilog code.
@@ -45,6 +47,8 @@ Icarus Verilog is used to compile and simulate Verilog code.
 $ sudo apt-get update
 $ sudo apt-get install iverilog
 ```
+![Alt text](images/iverilog.png)
+
 ### 3. GTKWave – Waveform Viewer
 
 GTKWave is used to visualize simulation results in .vcd (Value Change Dump) format.
@@ -52,3 +56,5 @@ GTKWave is used to visualize simulation results in .vcd (Value Change Dump) form
 $ sudo apt-get update
 $ sudo apt install gtkwave
 ```
+![Alt text](images/gtkwave.png)
+
