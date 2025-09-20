@@ -12,10 +12,10 @@ This program offers hands-on experience in designing a **System-on-Chip (SoC)**,
 It is part of one of the **largest collaborative RISC-V tapeout initiatives in India**, bringing together thousands of participants to strengthen the country’s **semiconductor ecosystem** and nurture a new generation of chip designers.  
 
 ---
-**Week 0** → [Tools installation](week0/README.md)  
+**Week 0** → [Tools installation](week0/README.md)
 ---
-
-## 🌟 Goals
+objective: Get the system, tools, and mindset ready for Verilog/VLSI learning. Build confidence with environment setup
+## 🌟 Goals of the program
 - Document weekly learnings clearly  
 - Build a strong foundation in SoC design  
 - Contribute to the open-source hardware design movement  
